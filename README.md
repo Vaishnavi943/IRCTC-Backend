@@ -5,24 +5,6 @@
 
 ---
 
-## 📋 Table of Contents
-
-- [Overview](#-overview)
-- [Architecture](#-architecture)
-- [Port Reference](#-port-reference)
-- [Tech Stack](#-tech-stack)
-- [Getting Started](#-getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-  - [Running the Application](#running-the-application)
-- [Services](#-services)
-- [Kafka Topics](#-kafka-topics)
-- [API Documentation](#-api-documentation)
-- [Environment Variables](#-environment-variables)
-- [Project Structure](#-project-structure)
-
----
-
 ## 🎯 Overview
 
 This project demonstrates a complete microservices architecture for a railway booking system (IRCTC clone), covering:
